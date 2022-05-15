@@ -25,8 +25,9 @@ Here's a useless table:
 
 
 How about a yummy crepe?
+Here is a picture of a yummy crepe, except no, it's a picture of butter chicken on rice. 
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe](https://www.recipetineats.com/wp-content/uploads/2019/01/Butter-Chicken_5-SQ.jpg)
 
 It can also be centered!
 
