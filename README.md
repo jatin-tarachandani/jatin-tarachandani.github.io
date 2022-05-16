@@ -1,1 +1,1 @@
-An attempt to build and maintain a personal website using [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll)
+Templated setup of a personal website on github pages using [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll)
